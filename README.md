@@ -1,2 +1,2 @@
 # BUAA-Introduction-to-Aeronautics-and-Astronautics-Exercises-AI-Answers
-The AI-generated answers for the BUAA campus-wide compulsory course "Introduction to Aeronautics and Astronautics". Full accuracy is not guaranteed, so check the sanity of these answers before you copywrite them. Also, you MUST modify some of the answer in purpose while copying, so as to avoid identical answers when submitting to teachers ... oops!
+AI-generated answers for BUAA's campus-wide required course, *Introduction to Aeronautics and Astronautics*. **Accuracy isn't guaranteed**, so use your own judgment before copying any of these. Also, you'd better **tweak some of the answers on purpose** when you copy them — otherwise every submission to the teacher will look identical... oops!
